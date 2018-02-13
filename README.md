@@ -1,1 +1,1 @@
-# programovani1
+# Repozitar slouzi k ukladani projektu ze cviceni PRO1
